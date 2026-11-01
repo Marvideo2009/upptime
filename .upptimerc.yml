@@ -3,29 +3,35 @@ owner: Marvideo2009 # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Main
+    url: https://marvideo.fr
+  - name: Authentik
+    url: https://auth.marvideo.fr
+  - name: Ntfy
+    url: https://ntfy.marvideo.fr
+  - name: Matrix Server
+    url: https://chat.marvideo.fr
+  - name: S3 Server
+    url: https://s3.marvideo.fr
+  - name: Git Server
+    url: https://git.marvideo.fr
+  - name: Img proxy Server
+    url: https://img.marvideo.fr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.marvideo.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Marvideo STatus
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Marvideo Status
+  logoUrl: https://s3.marvideo.fr/assets/Marvideo.png
+  name: Marvideo Services
+  introTitle: ""
+  introMessage: Marvideo Services
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
