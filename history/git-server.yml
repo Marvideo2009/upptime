@@ -1,7 +1,7 @@
 url: https://git.marvideo.fr
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2026-11-07T02:26:23.897Z
+status: down
+code: 502
+responseTime: 327
+lastUpdated: 2026-11-07T15:12:29.625Z
 startTime: 2026-11-01T21:17:34.765Z
 generator: Upptime <https://github.com/upptime/upptime>
