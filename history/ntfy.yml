@@ -1,7 +1,7 @@
 url: https://ntfy.marvideo.fr
-status: up
-code: 200
-responseTime: 550
-lastUpdated: 2026-11-14T02:46:18.508Z
+status: down
+code: 502
+responseTime: 348
+lastUpdated: 2026-11-14T16:00:10.804Z
 startTime: 2026-11-01T21:17:16.829Z
 generator: Upptime <https://github.com/upptime/upptime>
