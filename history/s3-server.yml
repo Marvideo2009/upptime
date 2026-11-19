@@ -1,7 +1,7 @@
 url: https://s3.marvideo.fr/assets/Marvideo.png
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2026-11-18T19:06:34.269Z
+status: down
+code: 502
+responseTime: 202
+lastUpdated: 2026-11-19T03:54:58.181Z
 startTime: 2026-11-01T21:17:18.507Z
 generator: Upptime <https://github.com/upptime/upptime>
